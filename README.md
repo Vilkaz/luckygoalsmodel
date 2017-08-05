@@ -1,0 +1,2 @@
+# luckygoalsmodel
+for Models only ;)
